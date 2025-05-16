@@ -1,0 +1,16 @@
+# Diretórios de ambientes virtuais
+.venv/
+venv/
+
+# Arquivos/dirs de build
+build/
+dist/
+*.egg-info/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
