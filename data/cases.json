@@ -1,0 +1,23 @@
+[
+  {
+    "problem": {
+      "temp": 80,
+      "pressure": 30
+    },
+    "solution": "check valve"
+  },
+  {
+    "problem": {
+      "temp": 40,
+      "pressure": 10
+    },
+    "solution": "normal operation"
+  },
+  {
+    "problem": {
+      "temp": 78,
+      "pressure": 29
+    },
+    "solution": "check valve"
+  }
+]
