@@ -1,6 +1,6 @@
 """
 cbr_engine.py — Minimal Case‑Based Reasoning engine (cycle 4R)
-Author: Luan & ChatGPT — 2025‑05‑19
+Author: Luan — 2025‑05‑19
 
 This module provides a simple but extensible CBR engine to help you
 prototype quickly.  It supports:

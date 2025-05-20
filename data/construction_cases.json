@@ -1,0 +1,172 @@
+[
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "hot",
+      "area": 100,
+      "budget": 20000
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1200,
+        "cimento": 80,
+        "areia_m3": 10
+      },
+      "supplier": "L&J Materiais"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "hot",
+      "area": 150,
+      "budget": 32000
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1800,
+        "cimento": 120,
+        "areia_m3": 15
+      },
+      "supplier": "L&J Materiais"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "hot",
+      "area": 100.0,
+      "budget": 20000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1200,
+        "cimento": 80,
+        "areia_m3": 10
+      },
+      "supplier": "L&J Materiais"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "humid",
+      "area": 80.0,
+      "budget": 15000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1000,
+        "cimento": 60,
+        "areia_m3": 8,
+        "impermeabilizante_l": 20
+      },
+      "supplier": "Casa&Obra"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "commercial",
+      "climate": "mild",
+      "area": 300.0,
+      "budget": 70000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_concreto": 5000,
+        "cimento": 250,
+        "ferro_kg": 800,
+        "areia_m3": 30,
+        "brita_m3": 25
+      },
+      "supplier": "Construcenter"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "industrial",
+      "climate": "cold",
+      "area": 500.0,
+      "budget": 150000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_concreto": 8000,
+        "cimento": 400,
+        "ferro_kg": 1500,
+        "areia_m3": 50,
+        "aditivo_concreto_l": 40
+      },
+      "supplier": "MacroMateriais"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "coastal",
+      "area": 120.0,
+      "budget": 28000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1400,
+        "cimento": 90,
+        "areia_m3": 12,
+        "tinta_anti_sal_l": 15
+      },
+      "supplier": "L&J Materiais"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "commercial",
+      "climate": "hot",
+      "area": 250.0,
+      "budget": 60000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_concreto": 4200,
+        "cimento": 210,
+        "areia_m3": 25,
+        "telha_termica_m2": 200
+      },
+      "supplier": "SolConstr"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "residential",
+      "climate": "cold",
+      "area": 90.0,
+      "budget": 18000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_ceramico": 1100,
+        "cimento": 70,
+        "areia_m3": 9,
+        "isolante_termico_m2": 100
+      },
+      "supplier": "MontaFácil"
+    }
+  },
+  {
+    "problem": {
+      "project_type": "industrial",
+      "climate": "humid",
+      "area": 650.0,
+      "budget": 180000.0
+    },
+    "solution": {
+      "materials": {
+        "bloco_concreto": 10000,
+        "cimento": 520,
+        "ferro_kg": 1800,
+        "areia_m3": 65,
+        "resina_piso_l": 50
+      },
+      "supplier": "MacroMateriais"
+    }
+  }
+]

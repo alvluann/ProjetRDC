@@ -1,9 +1,13 @@
 from fastapi import FastAPI
-from cbr_engine import CBREngine
-engine = CBREngine(persistence_path="data/cases.json")
-app = FastAPI()
+from construction_cbr import ConstructionCBREngine
 
-@app.post("/solve")
-async def solve(problem: dict):
-    sol, sim = engine.cycle(problem)
-    return {"solution": sol, "similarity": sim}
+engine = ConstructionCBREngine(
+    similarity=ConstructionCBREngine.similarity,
+    persistence_path="data/construction_cases.json")
+
+app = FastAPI(title="IA Recomenda Materiais")
+
+@app.post("/recommend")
+async def recommend(problem: dict):
+    solution, similarity = engine.cycle(problem)
+    return {"similarity": similarity, **solution}

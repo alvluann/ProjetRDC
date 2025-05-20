@@ -1,0 +1,9 @@
+project_type,climate,area,budget,materials_json,supplier
+residential,hot,100,20000,"{""bloco_ceramico"": 1200, ""cimento"": 80, ""areia_m3"": 10}",L&J Materiais
+residential,humid,80,15000,"{""bloco_ceramico"": 1000, ""cimento"": 60, ""areia_m3"": 8, ""impermeabilizante_l"": 20}",Casa&Obra
+commercial,mild,300,70000,"{""bloco_concreto"": 5000, ""cimento"": 250, ""ferro_kg"": 800, ""areia_m3"": 30, ""brita_m3"": 25}",Construcenter
+industrial,cold,500,150000,"{""bloco_concreto"": 8000, ""cimento"": 400, ""ferro_kg"": 1500, ""areia_m3"": 50, ""aditivo_concreto_l"": 40}",MacroMateriais
+residential,coastal,120,28000,"{""bloco_ceramico"": 1400, ""cimento"": 90, ""areia_m3"": 12, ""tinta_anti_sal_l"": 15}",L&J Materiais
+commercial,hot,250,60000,"{""bloco_concreto"": 4200, ""cimento"": 210, ""areia_m3"": 25, ""telha_termica_m2"": 200}",SolConstr
+residential,cold,90,18000,"{""bloco_ceramico"": 1100, ""cimento"": 70, ""areia_m3"": 9, ""isolante_termico_m2"": 100}",MontaFácil
+industrial,humid,650,180000,"{""bloco_concreto"": 10000, ""cimento"": 520, ""ferro_kg"": 1800, ""areia_m3"": 65, ""resina_piso_l"": 50}",MacroMateriais
